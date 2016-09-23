@@ -2,6 +2,8 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+.gitignore
+.idea/
 
 # Package Files #
 *.jar
