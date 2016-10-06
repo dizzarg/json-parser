@@ -1,6 +1,9 @@
 ## json-util
 The simple library can convert java object to JSON string and vice versa.
 
+[![Coverage Status](https://coveralls.io/repos/github/dizzarg/json-util/badge.svg?branch=master)](https://coveralls.io/github/dizzarg/json-util?branch=master) 
+[![Build Status](https://travis-ci.org/dizzarg/java-utils.svg?branch=master)](https://travis-ci.org/dizzarg/java-utils)
+
 ## Requirements:
 
   * Oracle Java SE Development Kit 7 (or newer)
